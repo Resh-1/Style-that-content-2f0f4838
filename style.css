@@ -1,0 +1,21 @@
+.navbar {
+display: flex;
+justify-content: space-around;
+background-color:orange;
+}
+h1 {
+	display: flex;
+	justify-content: center;
+	padding: 10px 10px;
+	margin:0px;
+}
+.content {
+	display: flex;
+	flex-wrap: wrap;
+}
+.news {
+	width: 30%;
+}
+.content >p {
+	width: 100%;
+}
